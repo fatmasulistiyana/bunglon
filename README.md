@@ -1,4 +1,4 @@
-# bunglon
+# himawari shop
 nama aplikasi kami adalah himawari(website toko baju online)
 aplikasi yang kami buat adalah sebuah website tentang toko baju online.
 fiturnya berupa katalog baju, chat admin, dan pemesanan.
