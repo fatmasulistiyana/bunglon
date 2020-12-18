@@ -1,0 +1,18 @@
+kelas
+  -kelas barang (atribut id, nama barang, merk, ukuran, harga, stok)
+     objek : 
+     - barang001 = barang(001,"baju sabrina merah","berrybenka","M",250.000,25)
+     - barang002 = barang(002,"celana jeans hitam","cardinal","28",350.000,10)
+     methode : get id, set id
+  -kelas admin (atribut id, nama, jenis kelamin, alamat, no hp)
+      objek :
+      - admin001 = admin(001, "paijo","Laki-laki","purbalingga","089456789012")
+      methode : get id, set id
+  -kelas customor (atribut id, nama, alamat, no hp)
+      objek :
+      -customor001 = customor(001, "ama", "purbalingga", "089765345678")
+      methode : get id, set id
+  -kelas pengguna => kelas admin dan kelas customor
+  -kelas pemesanan (atribut id, tanggal) => kelas barang, kelas admin, dan kelas pengguna
+      methode : get id, set id
+  
